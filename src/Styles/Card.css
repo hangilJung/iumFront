@@ -1,0 +1,77 @@
+.main-card-first {
+  width: 24vh;
+  border-radius: 30px;
+  text-align: center;
+  font-size: 30px;
+  margin: 0 auto;
+  justify-content: center;
+  padding: 1vh 0 1vh 0;
+}
+.main-card-second {
+  width: 24vh;
+  border-radius: 30px;
+  text-align: center;
+  font-size: 30px;
+  margin: 0 auto;
+  justify-content: center;
+  padding: 1vh 0 1vh 0;
+}
+.main-card-third {
+  width: 24vh;
+  border-radius: 30px;
+  text-align: center;
+  font-size: 30px;
+  margin: 0 auto;
+  justify-content: center;
+  padding: 1vh 0 1vh 0;
+}
+.main-card-fourth {
+  width: 24vh;
+  border-radius: 30px;
+  text-align: center;
+  font-size: 30px;
+  margin: 0 auto;
+  justify-content: center;
+  padding: 1vh 0 1vh 0;
+}
+.main-box {
+  text-align: center;
+  /* position: relative; */
+  /* margin: 0 auto; */
+  width: 60vh;
+  height: 30vh;
+  padding: 0;
+}
+.main-icon {
+  width: 40vh;
+  height: 40vh;
+  border-radius: 30px;
+  text-align: center;
+  display: flex;
+  font-size: 3.5vh;
+  margin: 0 auto;
+  /* position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); */
+}
+/* .main-icon ul {
+  border-radius: 30px;
+  height: 10vh;
+  margin: 1vh 0 0 0;
+  font-size: 3vh;
+  padding: 0;
+} */
+.kiosk-low {
+  color: blue;
+}
+.kiosk-safe {
+  color: green;
+}
+.kiosk-waring {
+  color: red;
+}
+
+.testCircle {
+  /* background-image: url('../../public/img/gauge.png'); */
+}

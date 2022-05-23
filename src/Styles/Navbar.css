@@ -1,0 +1,17 @@
+/* ----------------------------------------------- */
+
+@import '~antd/dist/antd.css';
+
+.menu_left {
+  float: left;
+  width: 300px;
+  height: 100%;
+  box-sizing: border-box;
+  margin-top: 100px;
+}
+
+.menu-btn {
+}
+.menu-btn :active {
+  border: 1px solid black;
+}
